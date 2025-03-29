@@ -12,7 +12,8 @@ public class Test5Application {
                int y=200;
               double z=10.3;
                boolean isPresent=false;
-		float m=10.3f;
+		          char x='a';
+		           float m=10.3f;
 		SpringApplication.run(Test5Application.class, args);
 	}
 
